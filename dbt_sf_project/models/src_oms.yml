@@ -16,3 +16,5 @@ sources:
       - name: ordritms
         description: The orderitems table from order management system(OMS).      
         identifier: orderitems
+      - name: employees
+        identifier: employees
